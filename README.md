@@ -6,3 +6,5 @@ green
 red
 green
 blue
+purple
+aquamarine
